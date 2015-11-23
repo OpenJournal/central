@@ -1,6 +1,6 @@
-# Scholar
+# OpenJournal
 
-Universalizing Open-Access Journals & Papers
+Universalizing Open-Access Academic Journals & Papers
 
 ## Mission
 
