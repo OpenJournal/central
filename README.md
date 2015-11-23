@@ -1,6 +1,6 @@
 # OpenJournal
 
-Universalizing Open-Access Academic Journals & Papers
+An open community dedicated towards universalizing open-access to public academic journals & papers
 
 ## Mission
 
