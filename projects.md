@@ -14,5 +14,5 @@ This is something of an "awesome" list for syncronizing discovering of different
 
 | Service | Institution | Contact |
 |---------|-------------|---------|
-| [IPFS](https://github.com/ipfs/ipfs) - [Archives (Project)](https://github.com/ipfs/archives/issues) | Protocol Labs | [@jbenet](https://github.com/jbenet) |
+| [IPFS](https://github.com/ipfs/ipfs) - [Archives (Project)](https://github.com/ipfs/archives/issues) | Protocol Labs | [@jbenet](https://github.com/jbenet) - [@davidar](https://github.com/davidar) |
 
