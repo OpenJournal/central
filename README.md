@@ -2,6 +2,12 @@
 
 An open community dedicated towards universalizing open-access to public academic journals & papers
 
+- [Mission](#mission)
+- [Who's Involved?](institutions.md)
+- [Projects](projects.md)
+- [Contributing](contributing.md)
+- [Meeting Minutes](#meetings)
+
 ## Mission
 
 There are several [institutions and individuals](institutions.md) working to
