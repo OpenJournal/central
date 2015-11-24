@@ -1,6 +1,6 @@
 # Projects
 
-This is something of an "awesome" list for syncronizing discovering of different projects relating to open-access academic publishing.
+This is something of an "awesome" list for syncronizing / facilitating discovery of different projects relating to OpenJournal & open-access academic publishing.
 
 ## Search Engines
 
