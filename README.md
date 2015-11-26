@@ -1,12 +1,14 @@
 # OpenJournal
 
-An open community dedicated towards universalizing open-access to public academic journals & papers
+OpenJournal is a working group and open community dedicated towards supporting and connecting institutions in the mission of universalizing open-access to public academic journals & papers.
 
 - [Mission](#mission)
-- [Who's Involved?](institutions.md)
-- [Projects](projects.md)
-- [Contributing](contributing.md)
+- [How it works](#protocol)
+- [Members](institutions.md) ([Join us](https://github.com/OpenJournal/central/issues/3))
+- [Directory of Initiatives](projects.md)
+- [Contributing](https://github.com/OpenJournal/central/issues/7)
 - [Meeting Minutes](#meetings)
+- [FAQs](#faqs)
 
 ## Mission
 
@@ -20,6 +22,18 @@ ecosystem.
 
 You can read more about our [long-term goals and mission](mission.md).
 
+## How it works
+
+We facilitate an online meeting approximately once a month to help institutions share their progress, synchronize their efforts (reduce redundant efforts), discuss blockers, and acquire the resources they need to be succesful. We use github to centralize and coordinate our organization, so we can then decentralize our efforts.
+
 ## Meetings
 
-Browse [meeting minutes!](minutes.md)
+Browse a history of our [meeting minutes](minutes.md)
+
+# FAQs
+
+- [My institution needs **funds**](funding.md)
+- [My institution needs **computing resources**](funding.md)
+- [What open-access academic journals does the OpenJournal network **already have**?](funding.md)
+- [What open-access academic journals does the OpenJournal network **need**?](funding.md)
+- 
