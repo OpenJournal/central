@@ -3,7 +3,7 @@
 OpenJournal is a working group and open community dedicated towards supporting and connecting institutions in the mission of universalizing open-access to public academic journals & papers.
 
 - [Mission](#mission)
-- [How it works](#protocol)
+- [How it works](#how-it-works)
 - [Members](institutions.md) ([Join us](https://github.com/OpenJournal/central/issues/3))
 - [Directory of Initiatives](projects.md)
 - [Contributing](https://github.com/OpenJournal/central/issues/7)
