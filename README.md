@@ -36,4 +36,3 @@ Browse a history of our [meeting minutes](minutes.md)
 - [My institution needs **computing resources**](funding.md)
 - [What open-access academic journals does the OpenJournal network **already have**?](funding.md)
 - [What open-access academic journals does the OpenJournal network **need**?](funding.md)
-- 
