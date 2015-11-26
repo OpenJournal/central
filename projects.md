@@ -11,6 +11,16 @@ This is something of an "awesome" list for syncronizing / facilitating discovery
 | [SearchWorks](https://searchworks.stanford.edu/databases) | [Stanford University](https://library.stanford.edu/blogs/topic/digital-library) | 1,800+ sources | [@aeschylus](https://github.com/aeschylus) |
 | [OneRepo](https://onerepo.net) | [Indexdata](indexdata.com) | | Mike Taylor <mike@indexdata.com> |
 
+## Indices
+| Aggregators |
+|-------------|
+| [ROAR (Registry of Open Access Repositories)](http://roar.eprints.org)
+| [OpenDOAR (Directory of Open Access Repositories)](http://www.opendoar.org/) |
+| [OpenAire](https://openaire.eu) |
+| [Directory of Open Access Journals](https://doaj.org) |
+
+
+
 ## Permenence
 
 | Service | Institution | Contact |
