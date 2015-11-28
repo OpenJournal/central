@@ -12,7 +12,7 @@ What institutions support and fund open-access academic publishing initiatives?
 | [Wellcome Trust](http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Influenza/Funding-opportunities/index.htm) |
 | [Sparc](http://www.sparc.arl.org/initiatives/funds) |
 | [PLoS](https://www.plos.org/publications/publication-fees/open-access-funds) |
-| [Springer (Open-Access funding)](http://www.springer.com/gp/open-access/open-access-funding) |
+
 
 ## Competitions & Programs
 
