@@ -32,7 +32,7 @@ Browse a history of our [meeting minutes](minutes.md)
 
 # FAQs
 
-- [My institution needs **funds**](funding.md)
-- [My institution needs **computing resources**](funding.md)
-- [What open-access academic journals does the OpenJournal network **already have**?](funding.md)
-- [What open-access academic journals does the OpenJournal network **need**?](funding.md)
+- [My institution needs **funds**](funders.md)
+- [My institution needs **computing resources**](funders.md)
+- [What open-access academic journals does the OpenJournal network **already have**?](coverage.md)
+- [What open-access academic journals does the OpenJournal network **need**?](coverage.md)
