@@ -8,4 +8,5 @@
 | OneRepo | Mike Taylor |
 | CiteSeerX | Professor C Lee Giles |
 | dissem.in | Antonin Delpeuch |
+| Directory of Open Access Journals (DOAJ) | Dom |
 
