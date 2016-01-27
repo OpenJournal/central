@@ -10,6 +10,5 @@
 | dissem.in | Antonin Delpeuch <antonin@delpeuch.eu> @wetneb |
 | Directory of Open Access Journals (DOAJ) | Dominic Mitchell <dom@doaj.org> @dommitchell |
 | Force 11 | Tim Clark <twclark@mgh.harvard.edu> |
-| paperity.org | Marcin Grzejszczak <mwojnarski@paperity.org> @marcingrzejszczak |
-
+| paperity.org | Marcin Wojnarski <mwojnarski (at) paperity (dot) org> @mwojnars |
 
