@@ -2,6 +2,20 @@
 
 This is something of an "awesome" list for syncronizing / facilitating discovery of different projects relating to OpenJournal & open-access academic publishing.
 
+## Literature Research & Programamtic Interfaces
+
+| Service | Institution | Progress | Contact | 
+|---------|-------------|----------|---------|
+| ropensci | https://ropensci.org | |  |
+
+## User Interfaces
+
+User interfaces and environments for Exploring Academic Research
+
+| Service | Institution | Progress | Contact | 
+|---------|-------------|----------|---------|
+| ropensci | https://ropensci.org | |  |
+
 ## Search Engines
 
 | Service | Institution | Progress | Contact | 
@@ -19,11 +33,12 @@ This is something of an "awesome" list for syncronizing / facilitating discovery
 | [OpenAire](https://openaire.eu) |
 | [Directory of Open Access Journals](https://doaj.org) |
 
-
-
 ## Permenence
 
 | Service | Institution | Contact |
 |---------|-------------|---------|
 | [IPFS](https://github.com/ipfs/ipfs) - [Archives (Project)](https://github.com/ipfs/archives/issues) | Protocol Labs | [@jbenet](https://github.com/jbenet) - [@davidar](https://github.com/davidar) |
 
+## Proofs of concept
+
+- http://openknowledgemaps.org
