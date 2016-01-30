@@ -14,7 +14,7 @@ User interfaces and environments for Exploring Academic Research
 
 | Service | Institution | Progress | Contact | 
 |---------|-------------|----------|---------|
-| ropensci | https://ropensci.org | |  |
+
 
 ## Search Engines
 
