@@ -2,7 +2,7 @@
 
 This is something of an "awesome" list for syncronizing / facilitating discovery of different projects relating to OpenJournal & open-access academic publishing.
 
-## Literature Research & Programamtic Interfaces
+## Literature Research & Programmatic Interfaces
 
 | Service | Institution | Progress | Contact | 
 |---------|-------------|----------|---------|
