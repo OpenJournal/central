@@ -13,4 +13,6 @@
 | [Force 11](https://www.force11.org) | Tim Clark <twclark@mgh.harvard.edu> |
 | [paperity.org](http://paperity.org) | Marcin Wojnarski mwojnars at paperity.org @mwojnars |
 | [Open Access Button (OAB)](https://openaccessbutton.org) | Joe McArthur <joe@righttoresearch.org> @JosephMcArthur |
+| [GitXiv](http://gitxiv.com) | Samim <samim.winiger@gmail.com> @samim23 |
+| [CORE](http://core.ac.uk) | Petr Knoth <petr.knoth@open.ac.uk> |
 
