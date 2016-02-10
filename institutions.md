@@ -15,4 +15,5 @@
 | [Open Access Button (OAB)](https://openaccessbutton.org) | Joe McArthur <joe@righttoresearch.org> @JosephMcArthur |
 | [GitXiv](http://gitxiv.com) | Samim <samim.winiger@gmail.com> @samim23 |
 | [CORE](http://core.ac.uk) | Petr Knoth <petr.knoth@open.ac.uk> |
+| [biostor](http://biostor.org) | Roderic Page <r.page@bio.gla.ac.uk> @rdmpage |
 
