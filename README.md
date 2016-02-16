@@ -1,6 +1,6 @@
 # OpenJournal
 
-OpenJournal is a working group and open community dedicated towards supporting and connecting institutions in the mission of universalizing open-access to public academic journals & papers.
+OpenJournal is a non-profit working group dedicated towards uniting institutions in universalizing access to open academic publications.
 
 - [Mission](#mission)
 - [How it works](#how-it-works)
