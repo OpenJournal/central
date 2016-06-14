@@ -2,7 +2,7 @@
 
 | Institution | Representative |
 |-------------|----------------|
-| [Internet Archive](https://archive.org) | Mek Karpeles <michael.karpeles@gmail.com> @mekarpeles |
+| [Open Journal Foundation](http://openjournal.foundation) | Mek Karpeles <michael.karpeles@gmail.com> @mekarpeles |
 | [Stanford University](http://searchworks.stanford.edu) | Drew Winget <awinget@stanford.edu> @aeschylus |
 | [Bielefeld Academic Search Engine (BASE)](http://base-search.net) | Christian Pietsch <christian.pietsch@uni-bielefeld.de> @pietsch|
 | [IPFS Archives](https://github.com/ipfs/archives) | David Roberts <d@vidr.cc> @davidar |
